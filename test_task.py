@@ -32,12 +32,6 @@ def make_rows_bold(*rows):
 
 
 table = "testidprod"
-# factor = 0
-# country = 1
-# year = 2
-# res = 3
-# res2 = 2
-# year2 = 1
 
 db_path = Path.cwd()
 db_name = "test.db"
